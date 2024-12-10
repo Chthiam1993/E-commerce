@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: white;
+    position: sticky;
+}
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
